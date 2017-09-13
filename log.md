@@ -4,9 +4,9 @@
 ***
 **Target** : ***Learn and Code for atleast 1 hour everyday for 100 days***
 
-**Start Date** : 
+**Start Date** : September 13
 
-Day :
+Day 1: September 13, Wednesday
 ------
 **Today's Progress** :
 
