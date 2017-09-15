@@ -6,15 +6,23 @@
 
 **Start Date** : September 13
 
+Day 2: September 14, Thursday
+------
+**Today's Progress** : Built the header of my portfolio app. Went through some sections of DBS course.
+
+**Thoughts** : Bootstrap 4 varies a lot from Bootstrap 3!
+
+**Link to work** : Not available yet.
+
+**Thing(s) learned**: Twitter Bootstrap 4
+
+
 Day 1: September 13, Wednesday
 ------
-**Today's Progress** :
+**Today's Progress** : Scaffolded the portfolio app.
 
-**Thoughts** :
+**Thoughts** : A lot to learn about the frontend stuff. Laravel Dusk is not that good in testing static pages since static pages don't have much to test about..
 
-**Link to work** :
+**Link to work** : Not available yet.
 
-**Thing(s) learned**:
-
-
-
+**Thing(s) learned**: npm / dusk
