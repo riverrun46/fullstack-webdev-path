@@ -2,9 +2,21 @@
 
 **Inspired by [Alexander Kallaway](https://twitter.com/ka11away)'s #100DaysOfCode challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com") or [the official repo](https://github.com/Kallaway/100-days-of-code "the official repo").**
 ***
-**Target** : ***Learn and Code for atleast 1 hour everyday for 100 days***
+**Target** : ***Learn and Code for at least 1 hour everyday for 100 days***
 
 **Start Date** : September 13
+
+Day 3: September , Monday
+------
+**Today's Progress** : Built the animation for motto section. And the following layout.
+
+**Thoughts** : Javascript! I need more Javascript.
+
+**Link to work** : Not available yet.
+
+**Thing(s) learned**: jQuery
+
+#### September 15 ~ 17 Too lazy to write down. Skipped somehow.
 
 Day 2: September 14, Thursday
 ------
