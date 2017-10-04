@@ -16,8 +16,8 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 | PENDING | Project | FCC Front End Project - [Build Your Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) | [portfolio](https://www.github.com/riverrun46/portfolio)  |  2017-9-20  |
 | DONE | Course | Learn to use [Command line](https://commandlinepoweruser.com/)| / |2017-9-25|
 |  | Course | Learn Git - [Try Git](https://try.github.io/levels/1/challenges/1) OR [Udacity - Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775)|   |    |
-|   | Course | Learn flexbox - [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) |   |    |
-|   | Course | Learn Sass - [Sass-guide](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |    |
+| DONE | Course | Learn flexbox - [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) | /  |  2017-10-3  |
+| DONE  | Course | Learn Sass - [Sass-guide](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) | /  |  2017-10-4  |
 |  | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass |   |    |
 | | Course | [Watch N Code Practical Javascript](https://watchandcode.com/p/practical-javascript) |  |    |
 |   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) |   |    |
